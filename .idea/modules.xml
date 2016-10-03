@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1.Hello-World/1.Hello-World.iml" filepath="$PROJECT_DIR$/1.Hello-World/1.Hello-World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2.Custom-Video-Driver/2.Custom-Video-Driver.iml" filepath="$PROJECT_DIR$/2.Custom-Video-Driver/2.Custom-Video-Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.Custom-Audio-Driver/3.Custom-Audio-Driver.iml" filepath="$PROJECT_DIR$/3.Custom-Audio-Driver/3.Custom-Audio-Driver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Screen-Sharing/4.Screen-Sharing.iml" filepath="$PROJECT_DIR$/4.Screen-Sharing/4.Screen-Sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.Live-Photo-Capture/5.Live-Photo-Capture.iml" filepath="$PROJECT_DIR$/5.Live-Photo-Capture/5.Live-Photo-Capture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.Simple-Multiparty/6.Simple-Multiparty.iml" filepath="$PROJECT_DIR$/6.Simple-Multiparty/6.Simple-Multiparty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenTokSamples.iml" filepath="$PROJECT_DIR$/OpenTokSamples.iml" />
+    </modules>
+  </component>
+</project>
